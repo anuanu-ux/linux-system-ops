@@ -34,4 +34,4 @@ sudo chown root:root config.yaml
 # Monitoring
 top
 df -h
-...
+```
