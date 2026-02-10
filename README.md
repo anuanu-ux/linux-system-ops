@@ -1,3 +1,7 @@
+# ANU AR
+### Computer Science Graduate
+---
+
 ## linux-system-ops
 Infrastructure and Linux system administration fundamentals focused on CloudOps workflows.
 This repository documents my hands-on practice with *Ubuntu Linux (WSL). It focuses on the core administrative skills required for managing **Cloud Infrastructure* and *AWS EC2* environments.
@@ -16,3 +20,20 @@ This repository documents my hands-on practice with *Ubuntu Linux (WSL). It focu
 * Utilized top and df -h to monitor resource usage, simulating server health checks.
 ### 4. Networking Fundamentals
 * Explored basic connectivity via ping, ssh, and IP configuration.
+
+## Hands-on Commands Practiced
+```bash
+# Navigation
+pwd
+ls -la
+'''
+'''bash
+# Permissions
+chmod 400 my_key.pem
+sudo chown root:root config.yaml
+'''
+''' bash
+# Monitoring
+top
+df -h
+'''
