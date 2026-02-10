@@ -27,12 +27,12 @@ This repository documents my hands-on practice with *Ubuntu Linux (WSL). It focu
 pwd
 ls -la
 ```
-
+# Permissions
 ```bash
 chmod 400 my_key.pem
 sudo chown root:root config.yaml
 ```
-
+# Monitoring
 ```bash
 top
 df -h
