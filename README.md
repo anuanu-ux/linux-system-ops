@@ -26,13 +26,11 @@ This repository documents my hands-on practice with *Ubuntu Linux (WSL). It focu
 # Navigation
 pwd
 ls -la
-'''
-'''bash
+
 # Permissions
 chmod 400 my_key.pem
 sudo chown root:root config.yaml
-'''
-''' bash
+
 # Monitoring
 top
 df -h
